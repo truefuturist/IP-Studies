@@ -1,0 +1,19 @@
+[XDP]  program attached to wlp0s20f3 (driver/NAPI hook)
+[XDP]  UMEM 0x7f0bfff2c000–0x7f0bfff4c000 (128 KiB) registered for DMA
+[XDP]  fill ring seeded with 32 UMEM chunks for NIC DMA
+[XDP]  bound to wlp0s20f3 queue 0 (XDP_COPY mode)
+[XDP]  socket registered in XSKMAP — redirection active
+[TCP]  SYN  seq=4276994270
+[TCP]  SYN-ACK  server_isn=3962856184  ack=3962856185
+[TCP]  ACK  (ESTABLISHED)
+[TCP]  PSH+ACK  72 bytes HTTP GET
+[TCP]  ACK 1412 bytes  ack=3962857597
+[TCP]  ACK 1412 bytes  ack=3962859009
+[TCP]  ACK 1412 bytes  ack=3962860421
+[TCP]  ACK 1412 bytes  ack=3962861833
+[TCP]  ACK 1412 bytes  ack=3962863245
+[TCP]  ACK 1412 bytes  ack=3962864657
+[TCP]  ACK 1412 bytes  ack=3962866069
+[TCP]  ACK 706 bytes  ack=3962866775
+[TCP]  FIN-ACK (CLOSED)
+[XDP]  program detached
