@@ -1,0 +1,11 @@
+[MMAP]  tx_ring=0x7fedb5d63000  rx_ring=0x7fedb5d53000
+[MMAP]  ring=64 KiB each  frame_slots=32  TPHDR_LEN=32
+[TCP]   SYN  seq=3405691582
+[TCP]   SYN-ACK  server_isn=438871472  ack=438871473
+[TCP]   ACK  (ESTABLISHED)
+[TCP]   PSH+ACK  79 bytes HTTP request
+[TCP]   ACK 2824 bytes  ack=438874297
+[TCP]   ACK 2824 bytes  ack=438877121
+[TCP]   ACK 2824 bytes  ack=438879945
+[TCP]   ACK 2146 bytes  ack=438882091
+[TCP]   FIN-ACK (CLOSED)
