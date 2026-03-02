@@ -1,0 +1,9 @@
+[TCP] sending SYN  seq=3237998080
+[TCP] got SYN-ACK  server_isn=638524641  ack=638524642
+[TCP] sent ACK  (handshake complete)
+[TCP] sent PSH+ACK  78 bytes HTTP request
+[TCP] ACKed 2824 bytes  ack=638527466
+[TCP] ACKed 2824 bytes  ack=638530290
+[TCP] ACKed 2824 bytes  ack=638533114
+[TCP] ACKed 2142 bytes  ack=638535256
+[TCP] got FIN, sent FIN-ACK  (closed)
